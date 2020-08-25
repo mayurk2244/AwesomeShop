@@ -1,1 +1,1 @@
-# AwesomwShop
+# Awesome Shop
